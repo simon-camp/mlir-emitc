@@ -1,2 +1,4 @@
+jax
+jaxlib
 tf-nightly==2.12.0.dev20230203
 wrapt==1.14.1
